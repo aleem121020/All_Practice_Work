@@ -1,0 +1,18 @@
+
+// **********************All PHP Concepts**********************************
+
+// *Variables
+// *Data Types
+// *Conditional Statement
+// *LOOPS
+// *String Methods
+// *Array Methods
+// *Date and time Methods
+// *Superglobal Variables
+// *File Handling
+// *OOPS
+// *Cookies
+// *Session
+// SQL with PHP
+// CRUD operations
+
